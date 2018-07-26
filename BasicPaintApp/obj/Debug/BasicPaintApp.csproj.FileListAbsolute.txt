@@ -1,0 +1,10 @@
+C:\Users\dsktp\Desktop\Projects\Tutorials\Visual Studio 2012\Training C#\Basic Paint App C#\Training - C-Shart-v1\obj\Debug\BasicPaintApp.csprojAssemblyReference.cache
+C:\Users\dsktp\Desktop\Projects\Tutorials\Visual Studio 2012\Training C#\Basic Paint App C#\Training - C-Shart-v1\obj\Debug\BasicPaintApp.csproj.GenerateResource.cache
+C:\Users\dsktp\Desktop\Projects\Tutorials\Visual Studio 2012\Training C#\Basic Paint App C#\Training - C-Shart-v1\obj\Debug\BasicPaintApp.csproj.CoreCompileInputs.cache
+C:\Users\dsktp\Desktop\Projects\Tutorials\Visual Studio 2012\Training C#\Basic Paint App C#\Training - C-Shart-v1\bin\Debug\BasicPaintApp.exe.config
+C:\Users\dsktp\Desktop\Projects\Tutorials\Visual Studio 2012\Training C#\Basic Paint App C#\Training - C-Shart-v1\bin\Debug\BasicPaintApp.exe
+C:\Users\dsktp\Desktop\Projects\Tutorials\Visual Studio 2012\Training C#\Basic Paint App C#\Training - C-Shart-v1\bin\Debug\BasicPaintApp.pdb
+C:\Users\dsktp\Desktop\Projects\Tutorials\Visual Studio 2012\Training C#\Basic Paint App C#\Training - C-Shart-v1\obj\Debug\BasicPaintApp.Properties.Resources.resources
+C:\Users\dsktp\Desktop\Projects\Tutorials\Visual Studio 2012\Training C#\Basic Paint App C#\Training - C-Shart-v1\obj\Debug\BasicPaintApp.exe
+C:\Users\dsktp\Desktop\Projects\Tutorials\Visual Studio 2012\Training C#\Basic Paint App C#\Training - C-Shart-v1\obj\Debug\BasicPaintApp.pdb
+C:\Users\dsktp\Desktop\Projects\Tutorials\Visual Studio 2012\Training C#\Basic Paint App C#\Training - C-Shart-v1\obj\Debug\NS_BasicPaintApp.BasicPaintApp.resources
